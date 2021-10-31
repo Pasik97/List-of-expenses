@@ -36,7 +36,7 @@ const TransactionsList: React.FC = observer(() => {
             onSortChange={onSortChange}
          />
          {userTransactions.map((transaction) => (
-            <P.Row>
+            <P.Row key={transaction.name + transaction.amountPln + transaction.fixedAmountEur}>
                <P.Cell><P.Label>{transaction.name}</P.Label></P.Cell>
                <P.Cell><P.Label>{transaction.amountPln}</P.Label></P.Cell>
                <P.Cell><P.Label>{transaction.fixedAmountEur}</P.Label></P.Cell>

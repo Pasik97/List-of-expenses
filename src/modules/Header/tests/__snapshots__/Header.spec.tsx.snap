@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> should render title and input to change conversion rate 1`] = `
+<header
+  className="sc-bdvvtL jlYooz"
+>
+  <h2
+    className="sc-gsDKAQ hOGUaI"
+    title="List of expenses"
+  >
+    List of expenses
+  </h2>
+  <div
+    className="sc-dkPtRN eyduwE"
+  >
+    <p
+      className="sc-eCImPb ccvvFK"
+    >
+      1EUR = 
+    </p>
+    <input
+      className="sc-hKwDye ghgza"
+      name="rate"
+      onChange={[Function]}
+      value="12.11"
+    />
+    <p
+      className="sc-eCImPb ccvvFK"
+    >
+      PLN
+    </p>
+  </div>
+</header>
+`;

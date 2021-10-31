@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AddTransactionForm /> should render button and 2 inputs to enter transaction title and amount 1`] = `
+<div
+  className="sc-bdvvtL hwnKLg"
+>
+  <div
+    className="sc-gsDKAQ ALJyz"
+  >
+    <div
+      className="sc-dkPtRN kIKkZP"
+    >
+      <p
+        className="sc-hKwDye gaRtAI"
+      >
+        Title of transaction
+      </p>
+      <div
+        className="sc-gKclnd ccezja"
+      >
+        <input
+          className="sc-eCImPb ZGNVb"
+          name="title"
+          onChange={[Function]}
+          value=""
+        />
+        <p
+          className="sc-iCfMLu ftLxkj"
+        >
+          
+        </p>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-gsDKAQ ALJyz"
+  >
+    <div
+      className="sc-dkPtRN kIKkZP"
+    >
+      <p
+        className="sc-hKwDye gaRtAI"
+      >
+        Amount (in PLN) 
+      </p>
+      <div
+        className="sc-gKclnd ccezja"
+      >
+        <input
+          className="sc-eCImPb ZGNVb"
+          name="amount"
+          onChange={[Function]}
+          value=""
+        />
+        <p
+          className="sc-iCfMLu ftLxkj"
+        >
+          
+        </p>
+      </div>
+    </div>
+    <button
+      className="sc-jRQBWg cDXwSo"
+      disabled={true}
+      onClick={[Function]}
+    >
+      Add
+    </button>
+  </div>
+</div>
+`;

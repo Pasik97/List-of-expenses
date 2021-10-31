@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TransactionsSummary /> should render summary of pln and eur amount 1`] = `
+<p
+  className="sc-bdvvtL dLAFml"
+>
+  Sum: 
+  10
+   PLN (
+  20
+   EUR)
+</p>
+`;

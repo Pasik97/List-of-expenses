@@ -1,0 +1,132 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TransactionsList /> should render TransactionsListHeader and rows with transactions with title, amount pln and eur and button to delete 1`] = `
+<div
+  className="sc-bdvvtL"
+>
+  (TransactionsListHeader /)
+  <div
+    className="sc-hKwDye jGGgdQ"
+  >
+    <div
+      className="sc-gsDKAQ yMCUW"
+    >
+      <p
+        className="sc-eCImPb hZlHbZ"
+      >
+        Mockkkkk transaction
+      </p>
+    </div>
+    <div
+      className="sc-gsDKAQ yMCUW"
+    >
+      <p
+        className="sc-eCImPb hZlHbZ"
+      >
+        1
+      </p>
+    </div>
+    <div
+      className="sc-gsDKAQ yMCUW"
+    >
+      <p
+        className="sc-eCImPb hZlHbZ"
+      >
+        3
+      </p>
+    </div>
+    <div
+      className="sc-gsDKAQ yMCUW"
+    >
+      <button
+        className="sc-jRQBWg hYKtVa"
+        onClick={[Function]}
+      >
+        Delete
+      </button>
+    </div>
+  </div>
+  <div
+    className="sc-hKwDye jGGgdQ"
+  >
+    <div
+      className="sc-gsDKAQ yMCUW"
+    >
+      <p
+        className="sc-eCImPb hZlHbZ"
+      >
+        Mockkkkk tra nsa ction 123
+      </p>
+    </div>
+    <div
+      className="sc-gsDKAQ yMCUW"
+    >
+      <p
+        className="sc-eCImPb hZlHbZ"
+      >
+        123
+      </p>
+    </div>
+    <div
+      className="sc-gsDKAQ yMCUW"
+    >
+      <p
+        className="sc-eCImPb hZlHbZ"
+      >
+        33
+      </p>
+    </div>
+    <div
+      className="sc-gsDKAQ yMCUW"
+    >
+      <button
+        className="sc-jRQBWg hYKtVa"
+        onClick={[Function]}
+      >
+        Delete
+      </button>
+    </div>
+  </div>
+  <div
+    className="sc-hKwDye jGGgdQ"
+  >
+    <div
+      className="sc-gsDKAQ yMCUW"
+    >
+      <p
+        className="sc-eCImPb hZlHbZ"
+      >
+        Mock transaction
+      </p>
+    </div>
+    <div
+      className="sc-gsDKAQ yMCUW"
+    >
+      <p
+        className="sc-eCImPb hZlHbZ"
+      >
+        12
+      </p>
+    </div>
+    <div
+      className="sc-gsDKAQ yMCUW"
+    >
+      <p
+        className="sc-eCImPb hZlHbZ"
+      >
+        12
+      </p>
+    </div>
+    <div
+      className="sc-gsDKAQ yMCUW"
+    >
+      <button
+        className="sc-jRQBWg hYKtVa"
+        onClick={[Function]}
+      >
+        Delete
+      </button>
+    </div>
+  </div>
+</div>
+`;

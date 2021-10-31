@@ -1,0 +1,283 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AddTransactionForm /> with currentSortDirection set to Asc should render table header cells with amountEur with arrow up is sort type is AmountEur 1`] = `
+<div
+  className="sc-hKwDye jGGgdQ"
+>
+  <div
+    className="sc-gsDKAQ sc-dkPtRN yMCUW fZqwlO"
+    onClick={[Function]}
+  >
+    <p
+      className="sc-eCImPb hZlHbZ"
+    >
+      Title
+    </p>
+  </div>
+  <div
+    className="sc-gsDKAQ sc-dkPtRN yMCUW fZqwlO"
+    onClick={[Function]}
+  >
+    <p
+      className="sc-eCImPb hZlHbZ"
+    >
+      Amount (PLN)
+    </p>
+  </div>
+  <div
+    className="sc-gsDKAQ sc-dkPtRN yMCUW fZqwlO"
+    onClick={[Function]}
+  >
+    <p
+      className="sc-eCImPb hZlHbZ"
+    >
+      🡅 
+      Amount (EUR)
+    </p>
+  </div>
+  <div
+    className="sc-gsDKAQ sc-dkPtRN yMCUW fZqwlO"
+  >
+    <p
+      className="sc-eCImPb hZlHbZ"
+    >
+      Options
+    </p>
+  </div>
+</div>
+`;
+
+exports[`<AddTransactionForm /> with currentSortDirection set to Asc should render table header cells with amountPln with arrow up is sort type is AmountPln 1`] = `
+<div
+  className="sc-hKwDye jGGgdQ"
+>
+  <div
+    className="sc-gsDKAQ sc-dkPtRN yMCUW fZqwlO"
+    onClick={[Function]}
+  >
+    <p
+      className="sc-eCImPb hZlHbZ"
+    >
+      Title
+    </p>
+  </div>
+  <div
+    className="sc-gsDKAQ sc-dkPtRN yMCUW fZqwlO"
+    onClick={[Function]}
+  >
+    <p
+      className="sc-eCImPb hZlHbZ"
+    >
+      🡅 
+      Amount (PLN)
+    </p>
+  </div>
+  <div
+    className="sc-gsDKAQ sc-dkPtRN yMCUW fZqwlO"
+    onClick={[Function]}
+  >
+    <p
+      className="sc-eCImPb hZlHbZ"
+    >
+      Amount (EUR)
+    </p>
+  </div>
+  <div
+    className="sc-gsDKAQ sc-dkPtRN yMCUW fZqwlO"
+  >
+    <p
+      className="sc-eCImPb hZlHbZ"
+    >
+      Options
+    </p>
+  </div>
+</div>
+`;
+
+exports[`<AddTransactionForm /> with currentSortDirection set to Asc should render table header cells with title with arrow up is sort type is Title 1`] = `
+<div
+  className="sc-hKwDye jGGgdQ"
+>
+  <div
+    className="sc-gsDKAQ sc-dkPtRN yMCUW fZqwlO"
+    onClick={[Function]}
+  >
+    <p
+      className="sc-eCImPb hZlHbZ"
+    >
+      🡅 
+      Title
+    </p>
+  </div>
+  <div
+    className="sc-gsDKAQ sc-dkPtRN yMCUW fZqwlO"
+    onClick={[Function]}
+  >
+    <p
+      className="sc-eCImPb hZlHbZ"
+    >
+      Amount (PLN)
+    </p>
+  </div>
+  <div
+    className="sc-gsDKAQ sc-dkPtRN yMCUW fZqwlO"
+    onClick={[Function]}
+  >
+    <p
+      className="sc-eCImPb hZlHbZ"
+    >
+      Amount (EUR)
+    </p>
+  </div>
+  <div
+    className="sc-gsDKAQ sc-dkPtRN yMCUW fZqwlO"
+  >
+    <p
+      className="sc-eCImPb hZlHbZ"
+    >
+      Options
+    </p>
+  </div>
+</div>
+`;
+
+exports[`<AddTransactionForm /> with currentSortDirection set to Desc should render table header cells with amountEur with arrow down is sort type is AmountEur 1`] = `
+<div
+  className="sc-hKwDye jGGgdQ"
+>
+  <div
+    className="sc-gsDKAQ sc-dkPtRN yMCUW fZqwlO"
+    onClick={[Function]}
+  >
+    <p
+      className="sc-eCImPb hZlHbZ"
+    >
+      Title
+    </p>
+  </div>
+  <div
+    className="sc-gsDKAQ sc-dkPtRN yMCUW fZqwlO"
+    onClick={[Function]}
+  >
+    <p
+      className="sc-eCImPb hZlHbZ"
+    >
+      Amount (PLN)
+    </p>
+  </div>
+  <div
+    className="sc-gsDKAQ sc-dkPtRN yMCUW fZqwlO"
+    onClick={[Function]}
+  >
+    <p
+      className="sc-eCImPb hZlHbZ"
+    >
+      🡇 
+      Amount (EUR)
+    </p>
+  </div>
+  <div
+    className="sc-gsDKAQ sc-dkPtRN yMCUW fZqwlO"
+  >
+    <p
+      className="sc-eCImPb hZlHbZ"
+    >
+      Options
+    </p>
+  </div>
+</div>
+`;
+
+exports[`<AddTransactionForm /> with currentSortDirection set to Desc should render table header cells with amountPln with arrow down is sort type is AmountPln 1`] = `
+<div
+  className="sc-hKwDye jGGgdQ"
+>
+  <div
+    className="sc-gsDKAQ sc-dkPtRN yMCUW fZqwlO"
+    onClick={[Function]}
+  >
+    <p
+      className="sc-eCImPb hZlHbZ"
+    >
+      Title
+    </p>
+  </div>
+  <div
+    className="sc-gsDKAQ sc-dkPtRN yMCUW fZqwlO"
+    onClick={[Function]}
+  >
+    <p
+      className="sc-eCImPb hZlHbZ"
+    >
+      🡇 
+      Amount (PLN)
+    </p>
+  </div>
+  <div
+    className="sc-gsDKAQ sc-dkPtRN yMCUW fZqwlO"
+    onClick={[Function]}
+  >
+    <p
+      className="sc-eCImPb hZlHbZ"
+    >
+      Amount (EUR)
+    </p>
+  </div>
+  <div
+    className="sc-gsDKAQ sc-dkPtRN yMCUW fZqwlO"
+  >
+    <p
+      className="sc-eCImPb hZlHbZ"
+    >
+      Options
+    </p>
+  </div>
+</div>
+`;
+
+exports[`<AddTransactionForm /> with currentSortDirection set to Desc should render table header cells with title with arrow down is sort type is Title 1`] = `
+<div
+  className="sc-hKwDye jGGgdQ"
+>
+  <div
+    className="sc-gsDKAQ sc-dkPtRN yMCUW fZqwlO"
+    onClick={[Function]}
+  >
+    <p
+      className="sc-eCImPb hZlHbZ"
+    >
+      🡇 
+      Title
+    </p>
+  </div>
+  <div
+    className="sc-gsDKAQ sc-dkPtRN yMCUW fZqwlO"
+    onClick={[Function]}
+  >
+    <p
+      className="sc-eCImPb hZlHbZ"
+    >
+      Amount (PLN)
+    </p>
+  </div>
+  <div
+    className="sc-gsDKAQ sc-dkPtRN yMCUW fZqwlO"
+    onClick={[Function]}
+  >
+    <p
+      className="sc-eCImPb hZlHbZ"
+    >
+      Amount (EUR)
+    </p>
+  </div>
+  <div
+    className="sc-gsDKAQ sc-dkPtRN yMCUW fZqwlO"
+  >
+    <p
+      className="sc-eCImPb hZlHbZ"
+    >
+      Options
+    </p>
+  </div>
+</div>
+`;

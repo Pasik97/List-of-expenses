@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<StoreProvider /> should render Header, AddTransactionForm, TransactionsList, TransactionsSummary components 1`] = `
+<div
+  className="sc-bdvvtL fZgyCL"
+>
+  (Header /)
+  (AddTransactionForm /)
+  (TransactionsList /)
+  (TransactionsSummary /)
+</div>
+`;

@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<StoreProvider /> should render div wrapper in provider 1`] = `<div />`;

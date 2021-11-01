@@ -6,6 +6,6 @@
 4. Open browser and visit 'http://localhost:3000' to see application.
 
 # Running tests
-To run tests enter 'npm run tests' command
+To run tests enter 'npm run test' command
 
-You can check tests coverage by open '{Path_To_Procjet}/coverage/index/html' in browser
+You can check tests coverage by open '{Path_To_Project}/coverage/index/html' in browser

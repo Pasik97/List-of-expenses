@@ -6,7 +6,7 @@ jest.mock('modules/AddTransactionForm/AddTransactionForm');
 jest.mock('modules/TransactionsList/TransactionsList');
 jest.mock('modules/TransactionsSummary/TransactionsSummary');
 
-describe('<StoreProvider />', () => {
+describe('<App />', () => {
    it('should render Header, AddTransactionForm, TransactionsList, TransactionsSummary components', () => {
       const component = create(<App />);
 
